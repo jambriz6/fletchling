@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 432a7924650f28744bcd4e6b7022f5b1, type: 3}
+  m_Name: TestCard_1
+  m_EditorClassIdentifier: 
+  cardID: test001
+  cardName: test 001
+  descriptionSprite: {fileID: 21300000, guid: c46c75c9c80d07841942d5dad688d009, type: 3}
+  cardBrand: TestBrand
+  cardSprite: {fileID: 21300000, guid: 947b2c3563ec1194a9fb56a43d3eb5e3, type: 3}
+  cardMaterial: {fileID: 21300000, guid: e67d21ad7ef3a3e42a0c04de63f1af93, type: 3}
+  card3DModel: {fileID: 919132149155446097, guid: 306e49cb586f1e6469c1b40bd39d64ce, type: 3}
+  cardAnimation: {fileID: 0}
+  pricing:
+    coins: 0
+    tokens: 0
+    scraps: 0
+  categoryTags: []

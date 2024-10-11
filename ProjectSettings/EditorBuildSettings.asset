@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/2. Scenes/1.GameHub.unity
+    guid: 852db8a08f0d2494697f7a49102a9463
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/2. Scenes/2.NewCardViewerScene.unity
+    guid: d7642a0f2c7fcc046a4c4efbea90b303
+  - enabled: 1
+    path: Assets/2. Scenes/3.CardInspectorScene.unity
+    guid: bed0698a9cca1bb4789e4a6d7dda6068
+  - enabled: 1
+    path: Assets/2. Scenes/0.StartScene - Login.unity
+    guid: 93dcc46f820ce59488c108db81d545f8
+  - enabled: 1
+    path: Assets/2. Scenes/0.StartScene - Signup.unity
+    guid: 5f3485980448dbf489483e335e80887e
+  m_configObjects: {}
