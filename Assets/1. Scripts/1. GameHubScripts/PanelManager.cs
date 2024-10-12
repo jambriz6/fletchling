@@ -40,7 +40,7 @@ public class PanelManager : MonoBehaviour
         */
     }
 
-    showHomePanel()
+    void ShowHomePanel()
     {
         HomePanel.SetActive(true);
 
